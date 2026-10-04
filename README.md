@@ -1,7 +1,10 @@
 ## Hi there 👋
 
-<!--
-**Linkk918/Linkk918** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm Zareth Ulrych M. Lim, a 1st Year Engineering Student in the UAE.
+
+## I still a beginner when it comes to coding! But I'm getting there eventually. I do have some experience with python, although I'm still mastering the basics!
+
+## I love to research about things under the bracket of technology as a whole. Circuits and Electricity is what interests me the most though.
 
 Here are some ideas to get you started:
 
